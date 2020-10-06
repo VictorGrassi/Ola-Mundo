@@ -1,6 +1,6 @@
 # Olá, Mundo!
- Primeiro repositório Git
+ **Primeiro repositório Git**
 
-Repositório criado.
+*Repositório criado*.
 
 Essa linha foi adicionada pelo site do GitHub!
